@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JeffDota
 - 👀 I’m interested in ...Code
 - 🌱 I’m currently learning ... 
-- 💞️ I’m looking to collaborate on Jetmaind
+- 💞️ I’m looking to collaborate on Uanataca Ecuador
 - 📫 How to reach me ... jeffcuelloo96@gmail.com
 
 <!---
